@@ -2,6 +2,13 @@ body {
     background-color: lightseagreen
 }
 
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/1865/1389/collections/Tranquility_2000x.progressive.jpg?v=1502724928");
+    background-size: cover;
+    background-position: center;
+    
+}
+
 heading {
     text-align: center;
 
